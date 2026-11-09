@@ -1,35 +1,29 @@
 # Lennykipchumba33
 
-## Remote Machine Learning Engineer | Python Developer | AI Systems
+## Remote AI & Machine Learning Engineer
 
-I build practical machine-learning and AI systems with a focus on reproducible experiments, NLP, forecasting, developer tooling, and workflow automation.
+I build practical AI and machine-learning systems in Python, with a focus on **model evaluation, NLP, forecasting, data pipelines, and AI-enabled developer tools**. I am open to remote roles where I can take systems from a clear problem definition through experiments, reliable implementation, evaluation, and iteration.
 
-**Open to remote roles** in machine-learning engineering, Python development, AI application engineering, and developer tooling. I work best in async-friendly teams that value clear written decisions, reliable delivery, and measurable outcomes.
+### AI/ML portfolio
 
-### Featured case studies
+- **[AI Sentiment Classifier](https://github.com/Lennykipchumba33/ai-sentiment-classifier)** — An offline NLP pipeline with TF-IDF features, logistic regression, a CLI, tests, CI, and documented limitations.
+- **[NYC Taxi Trip Duration](https://github.com/Lennykipchumba33/nyc-taxi-duration)** — Leakage-controlled regression with time-derived features, chronological evaluation, and MAE/RMSE reporting.
+- **[Bike Sharing Demand Forecast](https://github.com/Lennykipchumba33/bike-demand-forecast)** — Time-aware demand forecasting with target-leakage controls and reproducible data acquisition.
+- **[Workflow Builder](https://github.com/Lennykipchumba33/workflow-builder)** — AI workflow automation with TypeScript, Next.js, React Flow, PostgreSQL, Drizzle, integrations, execution logs, and end-to-end testing.
 
-- **[AI Sentiment Classifier](https://github.com/Lennykipchumba33/ai-sentiment-classifier)** — Offline scikit-learn NLP pipeline with a CLI, tests, CI, and explicit model limitations.
-- **[NYC Taxi Trip Duration](https://github.com/Lennykipchumba33/nyc-taxi-duration)** — Leakage-controlled regression on official NYC TLC records with chronological evaluation.
-- **[Bike Sharing Demand Forecast](https://github.com/Lennykipchumba33/bike-demand-forecast)** — Time-aware forecasting with target-leakage controls and reproducible data steps.
-- **[Workflow Builder](https://github.com/Lennykipchumba33/workflow-builder)** — Full-stack workflow automation with Next.js, React Flow, PostgreSQL, Drizzle, Playwright, and CI.
+### What I can contribute
 
-### Remote collaboration signals
-
-- **Async-first communication:** I document setup, decisions, assumptions, limitations, and next steps so work can continue without a live walkthrough.
-- **Reproducible handoffs:** Projects include one-command examples, dependency instructions, tests, and automated quality checks.
-- **Impact-oriented delivery:** Evaluation reports metrics and trade-offs instead of activity alone.
-- **Reviewable work:** Contributions are organized around focused changes, clear commit messages, and pull-request checklists.
-- **Responsible engineering:** Data sources, licenses, upstream authorship, security boundaries, and model limitations are documented.
+- **Applied ML:** dataset preparation, feature engineering, supervised learning, NLP, forecasting, experiment design, and error analysis.
+- **AI engineering:** evaluation harnesses, retrieval and agent workflows, integrations, reliability, observability, and human-review boundaries.
+- **Production habits:** typed code, tests, CI, reproducible setup, dependency hygiene, security awareness, and clear limitations.
+- **Remote delivery:** concise written updates, issue-driven work, decision records, reviewable pull requests, and low-context handoffs across time zones.
 
 ### Technical focus
 
-`Python` · `scikit-learn` · `pandas` · `NLP` · `time-series forecasting` · `TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Drizzle ORM` · `GitHub Actions`
+`Python` · `scikit-learn` · `pandas` · `NumPy` · `NLP` · `time-series forecasting` · `model evaluation` · `TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Drizzle ORM` · `GitHub Actions`
 
-### Selected engineering practices
+### How I work
 
-- Chronological or leakage-controlled evaluation for time-dependent data.
-- Tests and automated quality checks before deployment.
-- Clear repository documentation designed for low-context collaboration.
-- Small, maintainable systems that are easy to inspect and run.
+I prefer async-friendly teams that value clear written decisions and measurable outcomes. Each flagship repository includes setup instructions, tests or quality checks, data and license provenance, limitations, and contribution guidance so another engineer can understand and continue the work without a live walkthrough.
 
 For collaboration, please open a GitHub issue or discussion on a relevant repository.
